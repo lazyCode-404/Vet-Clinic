@@ -1,19 +1,20 @@
-📖 [Vet-Clinic]
+### 📖 Vet-Clinic
  This is a relational database for a vet clinic that was created using PostgreSQL.
 
 
 ### 🛠 Built With
 PostgreSQL a powerful, open source object-relational database system.
 
-Client
-Server
-Database
+- Client
+- Server
+- Database
 
 ### Key Features
 
-[Create a table using CREATE TABLE table_name()]
-[Add entries using INSERT INTO table_name VALUES()]
-[Write queries to get information from the table]
+- Create a table using CREATE TABLE table_name()
+- Add entries using INSERT INTO table_name VALUES()
+- Write queries to get information from the table
+
 (back to top)
 
 🚀 Live Demo
@@ -23,12 +24,9 @@ Live Demo Link
 (back to top)
 
 ### 💻 Getting Started
-Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
-Prerequisites
-In order to run this project you need:
 
 Setup
 Clone this repository to your desired folder:
@@ -38,11 +36,11 @@ https://github.com/lazyCode-404/Vet-Clinic
 
 
 
-👤 Bwalya Nonde
+👤 **Bwalya Nonde**
 
-GitHub: @https://github.com/lazyCode-404
-Twitter: @https://twitter.com/nonde_bwalya
-LinkedIn: https://www.linkedin.com/in/bwalya-nonde/
+- GitHub: [@githubhandle](https://github.com/lazyCode-404)
+- Twitter: [@twitterhandle](https://twitter.com/nonde_bwalya)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/bwalya-nonde/)
 
 (back to top)
 
@@ -62,5 +60,5 @@ I would like to thank everyone whose code was used.
 
 
 📝 License
-This project is MIT licensed.
+This project is [MIT](https://github.com/lazyCode-404/Vet-Clinic/blob/animals/LICENCE) licensed.
 
