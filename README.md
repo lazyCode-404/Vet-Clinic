@@ -30,7 +30,7 @@ To get a local copy up and running, follow these steps.
 
 Setup
 Clone this repository to your desired folder:
-https://github.com/lazyCode-404/Vet-Clinic
+- https://github.com/lazyCode-404/Vet-Clinic
 
 (back to top)
 
@@ -38,9 +38,9 @@ https://github.com/lazyCode-404/Vet-Clinic
 
 👤 **Bwalya Nonde**
 
-- GitHub: [@githubhandle](https://github.com/lazyCode-404)
-- Twitter: [@twitterhandle](https://twitter.com/nonde_bwalya)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/bwalya-nonde/)
+- GitHub: [@lazyCode-404](https://github.com/lazyCode-404)
+- Twitter: [@nonde_bwalya](https://twitter.com/nonde_bwalya)
+- LinkedIn: [Bwalya Nonde](https://www.linkedin.com/in/bwalya-nonde/)
 
 (back to top)
 
@@ -59,6 +59,6 @@ I would like to thank everyone whose code was used.
 (back to top)
 
 
-📝 License
-This project is [MIT](https://github.com/lazyCode-404/Vet-Clinic/blob/animals/LICENCE) licensed.
+### 📝 License
+- This project is [MIT](https://github.com/lazyCode-404/Vet-Clinic/blob/animals/LICENCE) licensed.
 
